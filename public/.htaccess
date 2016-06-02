@@ -1,0 +1,3 @@
+RewriteEngine on
+
+RewriteRule /.* http://www.myvamp.de/errorPage/404.html [R=404,L]
